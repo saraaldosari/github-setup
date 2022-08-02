@@ -1,3 +1,3 @@
 # github-setup:
 
-Andrew ID: <your-andrewid>
+Andrew ID: [write-here-your-andrewid]
